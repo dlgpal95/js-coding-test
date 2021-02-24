@@ -34,8 +34,6 @@ const twoSum = function(nums, target) {
 - searchValue : 찾으려는 문자열
 - fromIndex : 문자열에서 찾기 시작하는 위치를 나타내는 인덱스 값
 
-<br/>
-
 #### arr.includes(searchValue, fromIndex) : 포함여부 확인
 - searchValue : 찾으려는 문자열
 - fromIndex : 문자열에서 찾기 시작하는 위치를 나타내는 인덱스 값
