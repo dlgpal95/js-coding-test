@@ -58,7 +58,7 @@ const reverse = function(x) {
 
 <hr/>
 
-### :heavy_check_mark: 더 좋은 답안 
+### :heavy_check_mark: 참고하면 좋은 다른 답안 
 
 Thanks for https://leetcode.com/problems/reverse-integer/discuss/4071/Reverse-Integer-in-JavaScript
 

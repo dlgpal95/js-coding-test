@@ -24,7 +24,7 @@ const isPalindrome = function(x) {
 
 <hr/>
 
-### :heavy_check_mark: 더 좋은 답안 
+### :heavy_check_mark: 참고하면 좋은 다른 답안 
 
 Thanks for https://leetcode.com/problems/palindrome-number/discuss/387961/No-String-or-Array-conversion-4-Lines-99.66-beat
 
@@ -39,9 +39,7 @@ var isPalindrome = function(x) {
 ```
 
 ``` if (x < 0) return false``` 를 사용하면 - 걸러지는데 나는 Math.sign()을 이용했다..<br/>
-array 사용없이 한 코드이다.  <br/>
-속도는 내가 짠거보다 빠르다. 근데 어렵다..
-
+array 사용없이 한 코드이다. 어렵다..
 
 
 <br/>

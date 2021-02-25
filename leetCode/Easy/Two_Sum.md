@@ -40,7 +40,7 @@ const twoSum = function(nums, target) {
 
 <hr/>
 
-### :heavy_check_mark: 더 빠른 답안 
+### :heavy_check_mark: 참고하면 좋은 다른 답안 
 
 #### 해쉬테이블 이용
 
